@@ -1,0 +1,13 @@
+{
+    "azure": {
+        "api_key": "----",
+        "endpoint": "https://Example.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-08-01-preview"
+    },
+    "websites": [
+        "https://www.clearias.com/constitution-of-india/?srsltid=AfmBOopG_QDOUaYaUOyAgu3dWPPz975fdFhTVtf1MW33agX6fiG3hoyo#part-i-the-union-and-its-territory",
+        "https://www.thehindu.com/news/national/advanced-medium-combat-aircraft-prototype-expected-by-2028-29/article68360061.ece"
+    ],
+    "ner_model": {
+        "model_name": "dbmdz/bert-large-cased-finetuned-conll03-english"
+    }
+}
